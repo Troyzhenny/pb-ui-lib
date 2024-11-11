@@ -1,0 +1,1 @@
+mphoneApps > appName.jsx // the idea is to run apps as pages
